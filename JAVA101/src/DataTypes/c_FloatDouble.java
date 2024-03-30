@@ -1,7 +1,7 @@
 package DataTypes;
 
 public class c_FloatDouble {
-    public static void main(String[] args) {
+    public static void main(e_String[] args) {
         float vFloat = 3.14f;
         double vDouble = 3.14;
         double promise = 3;

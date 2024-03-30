@@ -1,9 +1,7 @@
 package DataTypes;
 
-import java.sql.SQLOutput;
-
-public class CharBoolean {
-    public static void main(String[] args) {
+public class d_CharBoolean {
+    public static void main(e_String[] args) {
         char v1 = 'J';
         char v2 = 'A';
         char v3 = 'V';

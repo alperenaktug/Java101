@@ -1,7 +1,7 @@
 package DataTypes;
 
 public class b_ByteIntLongShort {
-    public static void main(String[] args) {
+    public static void main(e_String[] args) {
         byte vByte = 100;
         short vShort = 1000;
         int vInt = 10000;
