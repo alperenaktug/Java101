@@ -10,5 +10,17 @@ public class Baslangic {
         System.out.println("You are mad\rI am back ");
 
         System.out.println("Say my name \"Heisenberg\"");
+
+        // Under Taker , John Cena , Rey Mysterio
+
+        /*
+        Bu benim hayatım tutamadım ellerimden kayduı
+        sigaraya başladığımda tam 2 liraydı.
+
+         */
+
+        /**
+         @author Alperen Aktuğ , 2024
+         */
     }
 }
