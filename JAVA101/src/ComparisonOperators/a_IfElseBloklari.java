@@ -1,6 +1,6 @@
 package ComparisonOperators;
 
-public class IfElseBloklari {
+public class a_IfElseBloklari {
     public static void main(String[] args) {
         int a=10 , b=20 ,  c=30;
         boolean compare = a==b;

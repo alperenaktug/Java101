@@ -1,6 +1,6 @@
 package ComparisonOperators;
 
-public class SwitchCase {
+public class b_SwitchCase {
     public static void main(String[] args) {
 
         int days = 5 ;
