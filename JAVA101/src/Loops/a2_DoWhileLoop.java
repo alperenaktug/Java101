@@ -2,7 +2,7 @@ package Loops;
 
 import java.util.Scanner;
 
-public class b_DoWhileLoop {
+public class a2_DoWhileLoop {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int pass ;

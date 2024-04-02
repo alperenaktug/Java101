@@ -2,7 +2,7 @@ package Loops;
 
 import java.util.Scanner;
 
-public class d_WhileLoop {
+public class a4_WhileLoop {
     public static void main(String[] args) {
         int i = 1  , k;
 
