@@ -7,6 +7,14 @@ public class Car {
     String color;
     int speed;
 
+
+    // Constructor (Kurucu) Metot
+    Car(String type, String model, String color) {
+        this.type = type;
+        this.model = model;
+        this.color = color;
+        this.speed = 0;
+    }
     // Davranışlar
 
      int increaseSpeed(int increment){
@@ -21,7 +29,15 @@ public class Car {
     }
 
      void printSpeed(){
-         System.out.println("Hızınız : " + speed);
+         System.out.println(model + " Hızınız : " + speed);
      }
+
+    void printInfo() {
+        System.out.println("================");
+        System.out.println("Model : " + this.model);
+        System.out.println("Color : " + this.color);
+        System.out.println("Type : " + this.type);
+        System.out.println("Speed : " + this.speed);
+    }
 
 }
